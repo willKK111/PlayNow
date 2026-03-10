@@ -1,16 +1,30 @@
-# play_now
 
-Aplicativo Móvel para Gerenciamento de Reservas de Quadras  Projeto desenvolvido em Flutter para facilitar o agendamento e gerenciamento de reservas de quadras esportivas em clubes. O app permite aos usuários visualizar horários disponíveis e realizar reservas.
+# 🏟️ PlayNow
 
-## Getting Started
+Aplicativo móvel desenvolvido em Flutter para facilitar o agendamento e gerenciamento de reservas de quadras esportivas em clubes.
 
-This project is a starting point for a Flutter application.
+O PlayNow permite que usuários visualizem horários disponíveis e realizem reservas de forma simples e rápida diretamente pelo celular.
 
-A few resources to get you started if this is your first Flutter project:
+📱 Sobre o Projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+O PlayNow foi criado com o objetivo de digitalizar o processo de reserva de quadras esportivas, eliminando a necessidade de agendamentos presenciais ou controles manuais.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Com o aplicativo, os usuários podem:
+
+visualizar horários disponíveis
+
+reservar quadras esportivas
+
+gerenciar suas reservas
+
+O sistema ajuda clubes e usuários a organizarem melhor a utilização dos espaços esportivos.
+
+🚀 Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando:
+
+Flutter
+
+Dart
+
+Android Studio
