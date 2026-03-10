@@ -23,8 +23,8 @@ O sistema ajuda clubes e usuários a organizarem melhor a utilização dos espa�
 
 O projeto foi desenvolvido utilizando:
 
-Flutter
+- Flutter
 
-Dart
+- Dart
 
-Android Studio
+- Android Studio
